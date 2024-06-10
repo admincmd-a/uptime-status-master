@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '网站监视器',
+  SiteName: '网站性能监视器',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
