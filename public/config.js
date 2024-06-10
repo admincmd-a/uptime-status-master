@@ -22,15 +22,15 @@ window.Config = {
   Navi: [
     {
       text: '主页 - GitHub',
-      url: 'https://status.org.cn/'
+      url: 'https://admincmd.xyz/'
     },
     {
       text: '主页 - Vercel',
-      url: 'https://github.com/yb/uptime-status'
+      url: 'https://vercel.admincmd.xyz/'
     },
     {
       text: '主页 - Netlify',
-      url: 'https://abo.xyz/'
+      url: 'https://netlify.admincmd.xyz/'
     },
   ],
 };
